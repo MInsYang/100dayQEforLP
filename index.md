@@ -4,7 +4,7 @@
 ```mermaid
 gantt
   title Ovieview
-  dataFormat YYYY-MM-DD
+  dateFormat YYYY-MM-DD
   section 民法
   第一章    :done,  2022-06-12,2d
   真题   :active,   2022-06-12,2d
