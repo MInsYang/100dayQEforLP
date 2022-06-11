@@ -49,7 +49,7 @@ gantt
     专题13-15  :        xs5, after xs4,1d
     专题16-18  :        xs6, after xs5,1d
     专题19-21  :        xs7, after xs6,1d
-    专题22-25  :milstone,        xs8, after xs7,1d
+    专题22-25  :milestone,        xs8, after xs7,1d
   section 理论法
      第一编  :active, ll1, 2022-06-11,1d
      第二编  :        ll2, after ll1,1d
