@@ -1,4 +1,4 @@
-## 100 day study to pass the China's Unified Qualification Exam for Legal Professionals
+## 100天法考通关尝试记实
 
 20220611-20220910
 <style>
@@ -46,7 +46,7 @@
   - 真题 文都法考，客观题理论法题库(白斌)
     1. <p>第一编 习近平法治思想</p>
        <div class="container">
-       <div class="skills html">0%</div>
+       <div class="skills html">10%</div>
        </div>
 
  
