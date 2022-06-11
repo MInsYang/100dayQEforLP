@@ -4,10 +4,11 @@
 gantt
   title Plan
   dateFormat YYYY-MM-DD
+  axisFormat %m%d
   section 100天
     总共        :done ,2022-06-11,100d
   section 民法
-    第一部分    :done  , mf1, 2022-06-11,1d 
+    第一部分    :crit,done  , mf1, 2022-06-11,1d 
     第二部分    :active, mf2, 2022-06-12,2d
     第三部分    :        mf3, after mf2,2d
     第四部分    :        mf4, after mf3,2d
@@ -17,7 +18,7 @@ gantt
     第八部分    :        mf8, after mf7,1d
     第九部分    :        mf9, after mf8,1d
   section 民诉
-    专题1-3    :active, ms1, 2022-06-11,1d
+    专题1-3    :crit,active, ms1, 2022-06-11,1d
     专题4-6    :        ms2, after ms1,1d
     专题7-9    :        ms3, after ms2,1d
     专题10-12  :        ms4, after ms3,1d
@@ -28,7 +29,7 @@ gantt
     专题25-27  :        ms9, after ms8,1d
     专题28-30  :        ms10, after ms9,1d
   section 刑法   
-    1-2讲    :active, xf1, 2022-06-11,1d
+    1-2讲    :crit,active, xf1, 2022-06-11,1d
     3-4讲    :        xf2, after xf1,1d
     5-6讲    :        xf3, 2022-06-11,1d
     7-8讲    :        xf4, after xf3,1d
@@ -41,14 +42,14 @@ gantt
     21-22讲  :        xf11, after xf10,1d
     23-24讲  :        xf12, after xf11,1d
   section 刑诉
-    专题1-3    :active, xs1, 2022-06-11,1d
+    专题1-3    :crit,active, xs1, 2022-06-11,1d
     专题4-6    :        xs2, after xs1,1d
     专题7-9    :        xs3, after xs2,1d
     专题10-12  :        xs4, after xs3,1d
     专题13-15  :        xs5, after xs4,1d
     专题16-18  :        xs6, after xs5,1d
     专题19-21  :        xs7, after xs6,1d
-    专题22-25  :        xs8, after xs7,1d
+    专题22-25  :milstone,        xs8, after xs7,1d
   section 理论法
      第一编  :active, ll1, 2022-06-11,1d
      第二编  :        ll2, after ll1,1d
