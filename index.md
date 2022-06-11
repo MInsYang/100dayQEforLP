@@ -1,9 +1,6 @@
 # **100天法考客观题通关尝试记实**
 
 
-# 客观题
-
-
 ```mermaid
 gantt
 title Ovieview
@@ -19,7 +16,8 @@ section 商经法
 section 行政法
 section 理论法
 ```
-# 个人重点
+
+# Keynote
 ## 民法
 ## 民诉
 ## 刑法
