@@ -4,10 +4,10 @@
 ```mermaid
 gantt
 title Ovieview
-dataFormat YYYYMMDD
+dataFormat YYYY-MM-DD
 section 民法
-第一章    :done,  20220612,2d
-真题   :active,   20220612,2d
+第一章    :done,  2022-06-12,2d
+真题   :active,   2022-06-12,2d
 section 民诉
 section 刑法
 section 刑诉
@@ -17,7 +17,7 @@ section 行政法
 section 理论法
 ```
 
-# Keynote
+# **Keynote**
 ## 民法
 ## 民诉
 ## 刑法
