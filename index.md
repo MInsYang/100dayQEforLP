@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## 100 day study to pass the China's Unified Qualification Exam for Legal Professionals
 
-You can use the [editor on GitHub](https://github.com/MInsYang/100dayQEforLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+20220611-20220910
+<style>
+ 
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+ 
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+'''这个是进度条
+.html {width: 80%; background-color: #2196F3;}
+'''
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# 客观题
+## 民法
+  - 精讲
+  - 真题
+## 民诉
+  - 精讲
+  - 真题
+## 刑法
+  - 精讲
+  - 真题
+## 刑诉
+  - 精讲
+  - 真题
+## 三国法
+  - 精讲
+  - 真题
+## 商经法
+  - 精讲
+  - 真题
+## 行政法
+  - 精讲
+  - 真题
+## 理论法
+  - 真题 文都法考，客观题理论法题库(白斌)
+    1. <p>第一编 习近平法治思想</p>
+       <div class="container">
+       <div class="skills html">0%</div>
+       </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MInsYang/100dayQEforLP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
