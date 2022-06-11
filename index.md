@@ -2,12 +2,10 @@
 
 20220611-20220910
 <style>
- 
 .container {
   width: 100%;
   background-color: #ddd;
 }
- 
 .skills {
   text-align: right;
   padding-right: 20px;
@@ -16,6 +14,9 @@
 }
 '''这个是进度条
 .html {width: 80%; background-color: #2196F3;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
 '''
 </style>
 
@@ -44,10 +45,8 @@
   - 真题
 ## 理论法
   - 真题 文都法考，客观题理论法题库(白斌)
-    1. <p>第一编 习近平法治思想</p>
-       <div class="container">
-       <div class="skills html">10%</div>
-       </div>
+    1. <p>第一编 习近平法治思想</p> <div class="container"><div class="skills html">80%</div></div>
+    2. 
 
  
 
