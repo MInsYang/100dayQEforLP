@@ -44,11 +44,27 @@
   - 精讲
   - 真题
 ## 理论法
-  - 真题 文都法考，客观题理论法题库(白斌)
-    1. <p>第一编 习近平法治思想</p> <div class="container"><div class="skills html">80%</div></div>
-    
- <p>第一编 习近平法治思想</p> <div class="container"><div class="skills js">65%</div></div>
- <p>第一编 习近平法治思想</p> <div class="container"><div class="skills js">80%</div></div>
+  - 真题
+
+<details>
+<summary> 民法 </summary>
+  <details>
+  <summary> 精讲 </summary>
+  <ul>
+    <li> -[]未完成 </li>
+    <li> [*]完成 </li>
+  </ul>
+  </details>
+
+  <details>
+  <summary> 真题 </summary>
+  <ul>
+    <li> Data Visualization </li>
+    <li> Ethics </li>
+  </ul>
+  </details>
+  
+</details>
 
 
 
