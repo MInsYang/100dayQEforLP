@@ -82,8 +82,8 @@ gantt
 journey
   title Execution
   section 20220611
-    民法专题    : 1:done
-    民法真题    : 0.6:undone
+    民法专题    : 5:done
+    民法真题    : 3:undone
 ```
 # 20220612 无学习
 
