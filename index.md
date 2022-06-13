@@ -82,11 +82,10 @@ gantt
 journey
   title Execution
   section 20220611
-    民法    : 5:done
-    民诉    : 5:undone
-  section 20220612
-    刑法    : 5:done
+    民法专题    : 94/94:done
+    民法真题    : 40/61:undone
 ```
+# 20220612 无学习
 
 
 
