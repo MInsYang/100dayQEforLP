@@ -82,12 +82,25 @@ gantt
 journey
   title Execution
   section 20220611
-    民法专题    : 5:done
-    民法真题    : 3:undone
+    民法专题  总则篇: 5:done
+    民法真题  总则篇部分(-p41）: 3:undone
 ```
 # 20220612 无学习
-
-
-
+# 20220613
+```mermaid
+journey
+  title Execution 21:00-01:30
+  section 20220613
+    民法专题  物权篇: 5:done
+    民法真题  总则篇剩余(p41): 2:undone
+```
+# 20220614 21:00-01:30
+```mermaid
+journey
+  title Execution 12:30-13:30
+  section 20220613
+    民法真题  物权篇: 2:done
+  title Execution 晚上
+```
 
 
